@@ -47,6 +47,13 @@
                     "versionNumber": "57.0.0.LATEST"
                 }
             ]
+        },
+        {
+            "path": "./es-space-mgmt",
+            "package": "easy-spaces-lwc",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "pushPackageDirectoriesSequentially": true,
@@ -61,6 +68,7 @@
         "ESObjects@57.0.0-2": "04t4W000002GrDcQAK",
         "ESBaseCodeLWC@57.0.0-1": "04t4W000002GrDhQAK",
         "ESBaseStylesLWC@57.0.0-1": "04t4W000002GrDmQAK",
-        "ESSpaceMgmtLWC@57.0.0-2": "04t4W000002GrGvQAK"
+        "ESSpaceMgmtLWC@57.0.0-2": "04t4W000002GrGvQAK",
+        "easy-spaces-lwc": "0Ho8d000000Kz4lCAC"
     }
 }
